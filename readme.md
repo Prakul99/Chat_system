@@ -12,5 +12,7 @@ Please wait for some time after sending and deleting the messages (If deleting m
 To run the chat system on your server, do the following.
 
 1. Paste all the files in your 
+2. Change the permission of all the to chmod 711, for script2.js and storage.json use chmod 644.
 
+Thanks and Enjoy :)
 
